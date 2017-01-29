@@ -74,6 +74,7 @@ h1{
     padding-top: 20px;
     font-family: snekregular;
     margin: 0;
+    background: #000;
 }
 h2{
     color: deeppink; /* Changer la couleur d'un des textes */
